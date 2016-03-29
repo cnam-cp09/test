@@ -1,4 +1,6 @@
 /* fichier regc3.css */
 h1{text-align:center; }
 body{background-color:green; }
-  p{font-size:24px; color:white; }
+  p{font-size:24px; color:white; 
+    background:orange; border-radius:10px; max-width:50%; }
+
